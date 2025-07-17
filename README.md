@@ -14,6 +14,7 @@ Hello there! I'm Khaile. I'm not a developer, I am remaker need some kiss :3
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=khasi-web)](https://github.com/khasi-web/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=khasi-web&theme=matrix
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
