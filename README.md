@@ -10,11 +10,11 @@ Hello there! I'm Khaile. I'm not a developer, I am remaker need some kiss :3
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khasi-web&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=khasi-web&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizenji&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khasi-web&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=khasi-web)](https://github.com/khasi-web/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=khasi-web&theme=matrix
+[![trophy](https://github-profile-trophy.vercel.app/?username=khasi-web&column=3&margin-w=15&margin-h=15)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
