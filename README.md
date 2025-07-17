@@ -13,7 +13,7 @@ Hello there! I'm Khaile. I'm not a developer, I am remaker need some kiss :3
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizenji&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khasi-web&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
